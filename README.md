@@ -1,2 +1,2 @@
-# C--Journey
+# CS-Journey
 C# programming basics
